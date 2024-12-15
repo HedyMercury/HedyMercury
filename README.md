@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HedyMercury
-- 👀 I’m interested in moving my compsci career forward, either in infrastructure defense, artificial intelligence, or another emerging field.
-- 🌱 I’m currently getting my Bachelor's degree and improving my skills, scoping out the scene, volunteering.
-- 💞️ I’m looking to collaborate and FIND ANSWERS
-- 📫 How to reach me ... look into your heart and there I am
+- 👀 I’m interested in blue team mostly I guess. Currently okay with C++ basics, minute experience with Java, and taking on Python.
+- 🌱 I’m currently getting my Bachelor's degree in compsci, going through TryHackMe paths and online courses in security and programming.
+- 💞️ I’m looking to increase my skillset so that I am feared by all
+- 📫 How to reach me ... whistle at night and I will come
 - 😄 Pronouns: anything respectful
 - ⚡ Fun fact: All my facts are very serious
 
