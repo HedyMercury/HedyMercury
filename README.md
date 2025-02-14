@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @HedyMercury
-- 👀 I’m interested in blue team mostly I guess. Currently okay with C++ basics, minute experience with Java, and taking on Python.
-- 🌱 I’m currently getting my Bachelor's degree in compsci, going through TryHackMe paths and online courses in security and programming.
+- 👋 Hi, I’m @hedyMercury, you remember me
+- 👀 I’m interested in everything, no lie
+- 🌱 I’m currently currently working on fundamentals across programming and security.
 - 💞️ I’m looking to increase my skillset so that I am feared by all
-- 📫 How to reach me ... whistle at night and I will come
-- 😄 Pronouns: anything respectful
+- 📫 How to reach me: a straightforward approach works the best
+- 😄 Pronouns: first-person
 - ⚡ Fun fact: All my facts are very serious
 
 <!---
