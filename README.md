@@ -3,7 +3,7 @@
 - 🌱 I’m currently currently working on fundamentals across programming and security.
 - 💞️ I’m looking to increase my skillset so that I am feared by all
 - 📫 How to reach me: a straightforward approach works the best
-- 😄 Pronouns: first-person
+- 😄 Pronouns: the royal We
 - ⚡ Fun fact: All my facts are very serious
 
 <!---
